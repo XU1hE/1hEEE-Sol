@@ -1,4 +1,3 @@
-- [Welcome](webCover)
-- [Read Me](README)
+- [Welcome](README)
 - [Example Second Page](second-page)
 - [Notebook001](001)
