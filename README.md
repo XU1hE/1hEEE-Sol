@@ -1,4 +1,4 @@
-# 1hEEE Solution
+# 1hEEE Solution - wiki
 
 > A collection of [XU1hE](https://github.com/XU1hE)'s EE Solution. 
 
