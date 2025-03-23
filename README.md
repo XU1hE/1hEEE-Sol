@@ -5,7 +5,7 @@ Welcome to my personal Wiki! Here, I document my study notes, research projects,
 ## 📂 Table of Contents
 - [📚 Study Notes](notes/README.md)
 - [💻 Research Projects](projects/README.md)
-- [💼 Industrial Experiences](competitions/README.md)
+- [💼 Industrial Experiences](works/README.md)
 - [💡 Life & Reflections](life/README.md)
 
 ## 🚀 Quick Navigation
