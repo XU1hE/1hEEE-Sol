@@ -1,4 +1,8 @@
-- [Welcome](README)
-- [Note](note)
-- [Example Second Page](second-page)
-
+* [Home](README.md)
+* [Study Notes](notes/README.md)
+* [Research Projects](projects/README.md)
+* [Competition Experiences](competitions/README.md)
+* [Applications & Planning](applications/README.md)
+* [Life & Reflections](life/README.md)
+* [Latest Updates](CHANGELOG.md)
+* [Search](#/)
