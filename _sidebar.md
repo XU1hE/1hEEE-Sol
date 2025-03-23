@@ -1,6 +1,6 @@
 * [Home](README.md)
 * [Study Notes](notes/README.md)
-  * [Linux](notes/001Linux)
+  * [001 Linux](notes/001Linux)
     * [001 Command](notes/001Linux/001Command.md)
 * [Research Projects](projects/README.md)
 * [Competition Experiences](competitions/README.md)
