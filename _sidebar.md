@@ -1,12 +1,19 @@
 * [Home](README.md)
-* [Study Notes](notes/README.md)
-  * [Topic-000 Tool](notes/000Tool/README.md)
-    * [Note-000.1 Markdown](notes/000Tool/001Markdown.md)
-    * [Note-000.2 Git](notes/000Tool/002Git.md)
-  * [Topic-001 Linux](notes/001Linux/README.md)
-    * [Note-001.1 Command](notes/001Linux/001Command.md)
+
+* [Study Notes](notes/NOTES.md)
+  * [T-1.00 Tool](notes/000Tool/TOOL.md)
+    * [N-1.00.1 Markdown](notes/000Tool/001Markdown.md)
+    * [N-1.00.2 Git](notes/000Tool/002Git.md)
+  * [T-1.01 Linux](notes/001Linux/LINUX.md)
+    * [N-1.01.1 Command](notes/001Linux/001Command.md)
+
 * [Research Projects](projects/README.md)
-* [Industrial Experiences](competitions/README.md)
+
+* [Industrial Insights](competitions/README.md)
+  * [T-3.01 IOT2050](notes/001INS/IOT.md)
+
 * [Life & Reflections](life/README.md)
+
 * [Latest Updates](CHANGELOG.md)
+
 * [Search](#/)
