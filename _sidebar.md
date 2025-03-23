@@ -3,7 +3,7 @@
   * [Topic-001 Linux](notes/001Linux/README.md)
     * [Note-001.1 Command](notes/001Linux/001Command.md)
 * [Research Projects](projects/README.md)
-* [Competition Experiences](competitions/README.md)
+* [Industrial Experiences](competitions/README.md)
 * [Applications & Planning](applications/README.md)
 * [Life & Reflections](life/README.md)
 * [Latest Updates](CHANGELOG.md)
