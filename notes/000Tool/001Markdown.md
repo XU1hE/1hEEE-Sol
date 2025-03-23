@@ -1,1 +1,82 @@
-hi
+# Markdown 基本语法
+
+Markdown 是一种轻量级的标记语言，它允许人们使用易读易写的纯文本格式编写文档，借助可实现快速排版且转换成格式丰富的 HTML 页面。
+
+1. 标题
+
+   ```
+   # heading level 1
+   ## heading level 2
+   ### heading level 3
+   ...
+   ```
+
+2. 强调
+
+   ```
+   *斜体*
+   **粗体**
+   ***粗斜体***
+   > 引用
+   >> 嵌套引用
+   ```
+
+3. 列表
+
+   ```
+   1. 序号一项
+   2. 序号二项
+   	1. 缩进序号一项
+   	2. 缩进序号二项
+   ```
+
+   ```
+   - 无序一项
+   - 无序二项
+   	- 缩进无序一项
+   	- 缩进无序二项
+   ```
+
+4. 代码
+
+   ```
+   句中`代码`
+   ``句中含有`引号`的代码``
+   ```回车 以下是一个代码块
+   ```
+
+5. 分割线
+
+   ```
+   ---
+   ```
+
+6. 超链接
+
+   `````
+   带title的文字链接：[My Wiki](https://xu1he.github.io/1hEEE-Sol/#/ "我的Wiki")
+   简单的显式链接：<https://xu1he.github.io/1hEEE-Sol/#/> <myemail@example.com>
+   `````
+
+   ````
+   斜体的文字链接 *[Markdown 指南](https://www.markdownguide.org)*
+   加粗的文字链接： **[EFF](https://eff.org)** 
+   伪代码的链接：[`我的wiki`](https://xu1he.github.io/1hEEE-Sol/#/)
+   ````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
