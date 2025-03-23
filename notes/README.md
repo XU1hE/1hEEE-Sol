@@ -18,6 +18,8 @@ Welcome to my Study Notes section! Here I document key concepts, algorithms, and
   - Vision-based systems
   - Autonomous decision-making
   - AI-powered robots (e.g., Tesla Optimus)
+- **Linux**
+  - [001 Command](notes/001 Linux/001 Command.md)
 
 ## 📝 How to Use These Notes
 These notes are organized into separate sections based on topics. Feel free to explore each topic and its sub-topics, where I explain concepts, share examples, and link to further reading.
