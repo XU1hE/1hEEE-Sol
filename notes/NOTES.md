@@ -8,4 +8,4 @@ Welcome to my Study Notes section! Here I document key concepts, algorithms, and
 * Topic-001 Linux
   * Note-001.1 Command
 * Topic-002 SQL
-  * Note-002.1 Mosh Vedio
+  * Note-002.1 Mosh Video
