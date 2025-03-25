@@ -1,6 +1,6 @@
 * [Home](README.md)
 
-* [Study Notes](notes/README.md)
+* [Study Notes](notes/NOTES.md)
   * [T-1.00 Tool](notes/000Tool/TOOL.md)
     * [N-1.00.1 Markdown](notes/000Tool/001Markdown.md)
     * [N-1.00.2 Git](notes/000Tool/002Git.md)
