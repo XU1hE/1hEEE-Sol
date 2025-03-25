@@ -8,6 +8,8 @@
     * [N-1.01.1 Command](notes/001Linux/001Command.md)
   * [T-1.02 SQL](notes/002SQL/SQL.md)
     * [N-1.02.1 Mosh video](notes/002SQL/001Mosh.md)
+  * [T-1.03 C++](notes/003C++/C++.md)
+    * [N-1.03.1 OOP](notes/003C++/001OOP.md)
 
 * [Research Projects](projects/README.md)
 
