@@ -1,16 +1,12 @@
-* [Home](README.md)
+* **[Home](README.md)**
 
-* [Study Notes](notes/NOTES.md)
+* **[Study Notes](notes/NOTES.md)**
   * [T-1.00 Tool](notes/000Tool/TOOL.md)
   * [T-1.01 Linux](notes/001Linux/LINUX.md)
 
-* [Research Projects](projects/README.md)
+* **[Research Projects](projects/README.md)**
 
-* [Industrial Insights](competitions/README.md)
+* **[Industrial Insights](competitions/README.md)**
   * [T-3.01 IOT2050](notes/001INS/IOT.md)
 
-* [Life & Reflections](life/README.md)
-
-* [Latest Updates](CHANGELOG.md)
-
-* [Search](#/)
+* **[Life & Reflections](life/README.md)**
