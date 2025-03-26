@@ -7,6 +7,7 @@ Welcome to my Study Notes section! Here I document key concepts, algorithms, and
   * Note-000.2 Git
 * Topic-001 Linux
   * Note-001.1 Command
+  * Note-001.2 Basic
 * Topic-002 SQL
   * Note-002.1 Mosh Video
 * Topic-003 C++
