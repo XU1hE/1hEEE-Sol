@@ -26,7 +26,25 @@
 └var/		 # 常态性变动文件
 ```
 
-## 2. Linux 常用文件命令
+## 2. 命令行基本操作
+
+**Linux命令行格式：**
+
+```
+command [-options] [parameter1] [parameter2] ...
+```
+
+- command：命令名
+- [-options]：选项，控制命令
+- [parameter1/2/3]：传给命令的参数
+
+**查看帮助文档：**
+
+- help: ls --help
+- man: man ls
+
+
+## 3. Linux 常用文件命令
 
 * 显示当前目录位置 `pwd` 
 * 列出目录下的文件 `ls` 
@@ -66,7 +84,7 @@
   * `rm -i` 删除时询问（输入y回车确认删除）
   * `mkdir` 创建文件夹
 
-## 3. 其他 
+## 4. 其他 
 
 * `ctrl+L` 清屏
 * `ctrl+shift+n` 在打开一个命令窗口
